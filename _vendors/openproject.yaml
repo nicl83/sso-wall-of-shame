@@ -1,0 +1,11 @@
+---
+name: OpenProject
+base_pricing: €5.95 per user/month
+sso_pricing: €10.95 per user/month
+percent_increase: 84%
+vendor_url: https://www.openproject.org
+pricing_source: https://www.openproject.org/pricing
+updated_at: 2026-11-18
+# Optional fields — include only if relevant:
+vendor_note: SSO requires the Professional tier or higher.
+# pricing_source_info: Pricing comes from a quote
